@@ -16,10 +16,20 @@
 ![Quiz 2](task-linux-cli/linux-survival-quiz2.png)
 ![Quiz 3](task-linux-cli/linux-survival-quiz3.png)
 ![Quiz 4](task-linux-cli/linux-survival-quiz4.png)
-##### Мої враження від матеріалів даної секції:
+### Мої враження від матеріалів даної секції:
 Linux Survival:
 
 - Дізналась багато нових команд для роботи з директоріями та файлами, зокрема для їх створення, видалення, копіювання. Також дізналась про дозволи на читання, редагування та запуск файлів, краще зрозуміла ідею навігації між файлами - відносний та абсолютний шляхи.
 - Здивувала відмінність Linux та Windows систем - у Linux завжди тільки одне directory tree, тоді як Windows використовує окреме directory tree для кожного диску, що ніяк не перетинаються між собою. Думаю, такі відмінності у системах можуть бути дуже важливими для розробників ПЗ.
 - Абсолютно точно використовуватиму базові команди Linux під час роботи над проектами - як мінімум, для навігації між директоріями та перегляду їх вмісту, інформації щодо їх дозволів. З розглянутих у курсі команд є сумніви щодо регулярного використання хіба що команд для друку файлів.
 
+HTTP part 1:
+- Дізналась
+- 
+HTTP part 2:
+- Дізналась
+- 
+
+Додаткові матеріали:
+- [ ] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
+- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
