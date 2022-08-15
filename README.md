@@ -11,11 +11,14 @@
 Загалом, я знайшла цікавими навчальні матеріали з цієї секції, а ще - краще зрозуміла, чому важливо використовувати систему контролю версій під час роботи над проектом.
 
 ## 2. Linux CLI, and HTTP
-Нижче подані результати пройдених мною чотирьох модулів [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/).
+<details><summary>Скріншоти з результатами пройдених мною чотирьох модулів Linux Survival</summary>
+
 ![Quiz 1](task-linux-cli/linux-survival-quiz1.png)
 ![Quiz 2](task-linux-cli/linux-survival-quiz2.png)
 ![Quiz 3](task-linux-cli/linux-survival-quiz3.png)
 ![Quiz 4](task-linux-cli/linux-survival-quiz4.png)
+</details>
+
 ### Мої враження від матеріалів даної секції:
 Linux Survival:
 - Дізналась багато нових команд для роботи з директоріями та файлами, зокрема для їх створення, видалення, копіювання. Також дізналась про дозволи на читання, редагування та запуск файлів, краще зрозуміла ідею навігації між файлами - відносний та абсолютний шляхи.
