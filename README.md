@@ -13,7 +13,8 @@
 
 ## 2. Linux CLI, and HTTP
 <details><summary>view more</summary>
-:camera: Скріншоти завершених уроків
+
+### :camera: Скріншоти завершених уроків
 <details><summary>дивитись тут</summary>
 
 ![Quiz 1](task_linux_cli/linux-survival-quiz1.png)
@@ -45,7 +46,9 @@ HTTP part 2:
 
 ## 3. Git Collaboration
 <details><summary>view more</summary>
-<details><summary>Скріншоти пройдених уроків</summary>
+
+### :camera: Скріншоти завершених уроків
+<details><summary>дивитись тут</summary>
 
 ![Coursera week 3](task_git_collaboration/github-week3.png)
 ![Coursera week 4](task_git_collaboration/github-week4.png)
