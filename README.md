@@ -1,5 +1,5 @@
 # Kottans Frontend Course
-## Stage 0
+
 Цей репозиторій складається з завдань, що я виконую під час проходження курсу з front-end від спільноти [Kottans](https://github.com/kottans).
 
 
@@ -38,3 +38,13 @@ HTTP part 2:
 Додаткові матеріали, до яких я маю намір повернутись:
 - [ ] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
 - [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+
+## 3. Git Collaboration
+
+<details><summary>Скріншоти завершених уроків</summary>
+
+![Coursera week 3](task_git_collaboration/github-week3.png)
+![Coursera week 4](task_git_collaboration/github-week4.png)
+![Git-branching basics](task_git_collaboration/git-branching-basics.png)
+![Git-branching remote repos](task_git_collaboration/git-branching-remote.png)
+</details>
