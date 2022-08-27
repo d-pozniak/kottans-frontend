@@ -69,3 +69,25 @@ Learn Git Branching:
 
 </details>
 
+## 4. Intro to HTML and CSS
+<details><summary>view more</summary>
+
+### :camera: Скріншоти завершених уроків
+<details><summary>дивитись тут</summary>
+
+![Coursera week 1](task_html_css_intro/coursera_html_week1.png)
+![Coursera week 2](task_html_css_intro/coursera_html_week2.png)
+![Codeacademy](task_html_css_intro/codacademy_html_css.png)
+</details>
+
+### Мої враження від матеріалів даної секції:
+Intro to HTML & CSS:
+- Дізналась більше теоретичних відомостей щодо HTML. CSS розділ дозволив ще раз закріпити знання про box model та позиціонування елементів на сторінці.
+- Було цікаво почути більше про організації, відповідальні за стандарти HTML: W3C, WHATWG.
+
+CodeAcademy:
+- Було цікаво додати до html сторінки відео та аудіо - робила це вперше, не замислювалась до цього, що для них також є default browser settings.
+
+Безперечно, верстання є дуже важливою навичкою для фронт-енд розробника.
+</details>
+
