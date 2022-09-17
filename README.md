@@ -1,6 +1,6 @@
 # Kottans Frontend Course
 
-Цей репозиторій складається з завдань, що я виконую під час проходження курсу з front-end від спільноти [Kottans](https://github.com/kottans).
+Цей репозиторій складається з завдань, що я виконую під час проходження курсу з frontend від спільноти [Kottans](https://github.com/kottans).
 
 ### Contents :bookmark_tabs:
 1. **[Git and GitHub](https://github.com/d-pozniak/kottans-frontend#1-git-and-github)**
@@ -164,7 +164,7 @@ js. Також вперше у верстанні власноруч викор�
 ### :camera: Скріншоти завершених уроків
 <details><summary>дивитись тут</summary>
 
-![CourseraJs](task_js_basics/coursera-JS.png)
+![CourseraJs](task_js_dom/Coursera-DOM.png)
 
 </details>
 
