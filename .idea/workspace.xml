@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51704032-c31c-409a-af84-49540d53b78b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../frontend-2022-homeworks" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -37,7 +38,8 @@
       <option name="presentableId" value="Default" />
       <updated>1661636672519</updated>
       <workItem from="1661636673928" duration="4885000" />
-      <workItem from="1663280932894" duration="7643000" />
+      <workItem from="1663280932894" duration="9120000" />
+      <workItem from="1663949780105" duration="1159000" />
     </task>
     <servers />
   </component>
